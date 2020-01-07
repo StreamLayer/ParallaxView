@@ -34,3 +34,6 @@ Carthage/Build
 
 ## Custom
 *.mov
+node_modules
+*.zip
+*.lock
