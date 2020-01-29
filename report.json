@@ -1,1 +1,1 @@
-{"identifiers":["ParallaxMotionEffect","SubviewsParallaxMode","ParallaxableView","ParallaxCollectionViewCell","ParallaxView","ParallaxEffectOptions","ParallaxViewActions","AnyParallaxableView"],"products":["ParallaxView"],"prefix":"SLR_","fnReplace":[]}
+{"identifiers":["ParallaxCollectionViewCell","ParallaxViewActions","ParallaxMotionEffect","AnyParallaxableView","ParallaxView","SubviewsParallaxMode","ParallaxEffectOptions","ParallaxableView"],"products":["ParallaxView"],"prefix":"SLR_","fnReplace":[]}
